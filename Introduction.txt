@@ -1,0 +1,2 @@
+I have tried to make a basic neural network in python3 using numpy only ! 
+it seems wierd when to think first but i was able to see things in detail.
